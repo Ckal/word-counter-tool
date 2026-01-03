@@ -1,0 +1,5 @@
+{
+  "description": "This is a tool that counts the words of an input. It takes an input.",
+  "name": "word_counter",
+  "tool_class": "word_counter.WordCounterTool"
+}
